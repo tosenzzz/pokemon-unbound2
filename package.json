@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "yarn --cwd ../pokemon-unbound/frontend build && yarn dep",
-    "dep": "gh-pages -d dist"
+    "dep": "yarn --cwd ../pokemon-unbound/frontend build && yarn dist",
+    "dist": "gh-pages -d dist"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
