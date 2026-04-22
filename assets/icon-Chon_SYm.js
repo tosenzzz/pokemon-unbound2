@@ -1,0 +1,1 @@
+const o={ball:"https://raw.githubusercontent.com/ydarissep/Dex-Helper/main/Pok%C3%A9_Ball_icon.ico",mega:"https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-x-y-version/b/b3/Mega_evolution_symbol.png"};export{o as I};
