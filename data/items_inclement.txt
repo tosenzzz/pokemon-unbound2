@@ -334,7 +334,7 @@ Dark Gem
 Dragon Gem
 Electric Gem
 Fairy Gem
-Fightin Gem
+Fighting Gem
 Fire Gem
 Flying Gem
 Ghost Gem
@@ -372,178 +372,99 @@ Mind Plate
 Stone Plate
 Iron Plate
 Splash Plate
-
-
-
-
-Luminous Moss
-Quick Powder
-
-
-Max Powder
-unknown
-Wishing Piece
-Dream Mist
-
-Link Stone
-Magma Stone
-Mega Cuff
-Mega Tiara
-Orange Mail
-Harbor Mail
-Glitter Mail
-Mech Mail
-Wood Mail
-Wave Mail
-Bead Mail
-Shadow Mail
-Tropic Mail
-Dream Mail
-Fab Mail
-Retro Mail
-
-Choice Band
 Soul Dew
 Deep Sea Tooth
 Deep Sea Scale
-
-
-Light Ball
-
-
-
-Sea Incense
-Lax Incense
 Lucky Punch
 Metal Powder
 Thick Club
 Leek
-
-
-
-
-
-
-
-Odd Keystone
-Luck Incense
-Full Incense
+Light Ball
+Quick Powder
+Adamant Orb
+Lustrous Orb
+Griseous Orb
+Douse Drive
+Shock Drive
+Burn Drive
+Chill Drive
+Sea Incense
+Lax Incense
 Odd Incense
-Pure Incense
 Rock Incense
-Rose Incense
+Full Incense
 Wave Incense
-Mach Bike
-Coin Case
-Dowsing Machine
-Old Rod
-Good Rod
-Super Rod
-S.S. Ticket
-Grubby Hanky
-Uniform
-Dynamax Band
-Braille Converter
-Fashion Case
-Basement Key
-Frontier Card
-Poké Ball
-Letter
-Eon Ticket
-Red Orb
-Blue Orb
-Stat Scanner
-Go-Goggles
-Meteorite
-Barrier Key
-Key Card: 2
-Key Card: 3
-Rm. 6 Key
-Storage Key
-Devon Scope
-TM 01
-TM 02
-TM 03
-TM 04
-TM 05
-TM 06
-TM 07
-TM 08
-TM 09
-TM 10
-TM 11
-TM 12
-TM 13
-TM 14
-TM 15
-TM 16
-TM 17
-TM 18
-TM 19
-TM 20
-TM 21
-TM 22
-TM 23
-TM 24
-TM 25
-TM 26
-TM 27
-TM 28
-TM 29
-TM 30
-TM 31
-TM 32
-TM 33
-TM 34
-TM 35
-TM 36
-TM 37
-TM 38
-TM 39
-TM 40
-TM 41
-TM 42
-TM 43
-TM 44
-TM 45
-TM 46
-TM 47
-TM 48
-TM 49
-TM 50
-TM 51
-TM 52
-TM 53
-TM 54
-TM 55
-TM 56
-TM 57
-TM 58
-unknown
-Costume Box
-Parcel
-Jade Orb
-Grimy Socks
-Package
-Mega Ring
-Key Card: 1
-Time Turner
-Baby Monitor
-Motorcycle
-Town Map
-Vs. Seeker
-Oddisch Leaves
-TM Case
-Berry Pouch
-ADM
-Notebook
-Porta-PC
-Trainer Catalogue
-Glimmer Ticket
-Catching Charm
-Powder Jar
-Lunar Wing
-Member Card
+Rose Incense
+Luck Incense
+Pure Incense
+Traning Band
+---
+---
+---
+---
+---
+---
+---
+---
+---
+TM01
+TM02
+TM03
+TM04
+TM05
+TM06
+TM07
+TM08
+TM09
+TM10
+TM11
+TM12
+TM13
+TM14
+TM15
+TM16
+TM17
+TM18
+TM19
+TM20
+TM21
+TM22
+TM23
+TM24
+TM25
+TM26
+TM27
+TM28
+TM29
+TM30
+TM31
+TM32
+TM33
+TM34
+TM35
+TM36
+TM37
+TM38
+TM39
+TM40
+TM41
+TM42
+TM43
+TM44
+TM45
+TM46
+TM47
+TM48
+TM49
+TM50
+TM51
+TM52
+TM53
+TM54
+TM55
+TM56
+TM57
+TM58
 TM59
 TM60
 TM61
@@ -586,26 +507,6 @@ TM97
 TM98
 TM99
 TM100
-TM101
-TM102
-TM103
-TM104
-TM105
-TM106
-TM107
-TM108
-TM109
-TM110
-TM111
-TM112
-TM113
-TM114
-TM115
-TM116
-TM117
-TM118
-TM119
-TM120
 HM01
 HM02
 HM03
@@ -614,122 +515,200 @@ HM05
 HM06
 HM07
 HM08
-Necrozium Z
-Venusaurite
+Odd Keystone
+Gracidea
+Mega Bracelet
+Mach Bike
+Coin Case
+Dowsing Machine
+Old Rod
+Good Rod
+Super Rod
+S.S. Ticket
+Contest Pass
+Wailmer Pail
+Devon Parts
+Soot Sack
+Basement Key
+Acro Bike
+PokeBLK Case
+Letter
+Eon Ticket
+Exp. Charm
+---
+Scanner
+Go-Goggles
+Meteorite
+Key to Room 1
+Key to Room 2
+Key to Room 4
+Key to Room 6
+Storage Key
+Devon Scope
+Magma Stone
+Lunar Wing
+Shiny Charm
+Oval Charm
+Magma Emblem
+Old Sea Map
+Mystic Ticket
+Aurora Ticket
+Powder Jar
+---
+---
+---
+Poke Vial
+Catching Charm
+Rotom Catalog
+Reins of Unity
+Iceroot Carrot
+Shaderoot Carrot
+Wooden Crown
+---
+---
+---
+---
+---
+---
+Abomasite
+Absolite
+Aerodactite
+Aggronite
+Alakazite
+Altarianite
+Ampharosite
+Audinite
+Banettite
+Beedrillite
+Blastoisite
+Blazikenite
+Cameruptite
 Charizite X
 Charizite Y
-Blastoisite
-Beedrillite
-Pidgeotite
-Alakazite
-Slowbronite
+Diancite
+Galladite
+Garchompite
+Gardevoirite
 Gengarite
-Kangashite
-Pinsirite
+Glalitite
 Gyaradosite
-Aerodactite
-Mewtwonite X
-Mewtwonite Y
-Ampharosite
-Steelixite
-Scizorite
 Heracronite
 Houndoomite
-Tyranitarite
-Sceptilite
-Blazikenite
-Swampertite
-Gardevoirite
-Sablenite
-Mawilite
-Aggronite
-Medichamite
-Manectite
-Sharpedonite
-Cameruptite
-Altarianite
-Banettite
-Absolite
-Glalitite
-Salamencite
-Metagrossite
+Kangashite
 Latiasite
 Latiosite
 Lopunnite
-Garchompite
 Lucarionite
-Abomasite
-Galladite
-Audinite
-Diancite
-
-
-Casteliacone
-Lumiose Gale
-Ragecandybar
-Shalour Sable
-Mega Earing
-Mega Charm
-Mega Bracelet
-Mega Anklet
-Mega Pendant
-Adamant Orb
-Lustrous Orb
-Griseous Orb
-Gracidea
-DNA Splicers
-Reveal Glass
-Prison Bottle
-
-Adrenal Orb
-
-
-Ability Capsule
-Health Wing
-Muscle Wing
-Resist Wing
-Genius Wing
-Clever Wing
-Swift Wing
-Pretty Wing
-Oval Charm
-Shiny Charm
-Burn Drive
-Douse Drive
-Shock Drive
-Chill Drive
-Fist Memory
-Sky Memory
-Toxic Memory
-Earth Memory
-Rock Memory
+Manectite
+Mawilite
+Medichamite
+Metagrossite
+Mewtwonite X
+Mewtwonite Y
+Pidgeotite
+Pinsirite
+Sablenite
+Salamencite
+Sceptilite
+Scizorite
+Sharpedonite
+Slowbronite
+Steelixite
+Swampertite
+Tyranitarite
+Venusaurite
+Miloticite
+Red Orb
+Blue Orb
+Flygonite
+Butterfrenite
+Laprasite
+Machampite
+Kinglerite
+Kingdranite
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+Health Feather
+Muscle Feather
+Resist Feather
+Genius Feather
+Clever Feather
+Swift Feather
+Pretty Feather
+Red Apricorn
+Blue Apricorn
+Yellow Apricorn
+Green Apricorn
+Pink Apricorn
+White Apricorn
+Black Apricorn
+Orange Mail
+Harbor Mail
+Glitter Mail
+Mech Mail
+Wood Mail
+Wave Mail
+Bead Mail
+Shadow Mail
+Tropic Mail
+Dream Mail
+Fab Mail
+Retro Mail
 Bug Memory
-Ghost Memory
-Steel Memory
-Fire Memory
-Water Memory
-Grass Memory
-Zap Memory
-Psych Memory
-Ice Memory
-Draco Memory
 Dark Memory
+Dragon Memory
+Electric Memory
 Fairy Memory
-Rainbow Wing
-Silver Wing
-N-Solarizer
-N-Lunarizer
-Sun Flute
-Moon Flute
-Light Stone
-Dark Stone
-Relic Crown
-
+Fighting Memory
+Fire Memory
+Flying Memory
+Ghost Memory
+Grass Memory
+Ground Memory
+Ice Memory
+Poison Memory
+Psychic Memory
+Rock Memory
+Steel Memory
+Water Memory
+Parcel
+Poke Flute
+Secret Key
+Bike Voucher
+Gold Teeth
+Card Key
+Lift Key
+Silph Scope
+Bicycle
+Town Map
+Vs. Seeker
+Fame Checker
+TM Case
+Berry Pouch
+Teachy TV
+Tri-Pass
+Rainbow Pass
+Tea
+Ruby
+Sapphire
+Z-Ring
 Normalium Z
 Fightinium Z
 Flyinium Z
-Poisonium Z
-Groundium Z
+Poisinium Z
+Groudium Z
 Rockium Z
 Buginium Z
 Ghostium Z
@@ -740,10 +719,10 @@ Grassium Z
 Electrium Z
 Psychium Z
 Icium Z
-Dragonium Z
+Gragonium Z
 Darkinium Z
 Fairium Z
-Alorichium Z
+Aloraichium Z
 Decidium Z
 Eevium Z
 Incinium Z
@@ -759,6 +738,4 @@ Primarium Z
 Snorlium Z
 Solganium Z
 Tapunium Z
-Utility Parasol
-Chipped Pot
-
+U-Necrozium Z

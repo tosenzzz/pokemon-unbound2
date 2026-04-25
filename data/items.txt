@@ -588,7 +588,7 @@
 588:Misty Seed
 589:Psychic Seed
 590:Normal Gem
-591:Fightin Gem
+591:Fighting Gem
 592:Flying Gem
 593:Poison Gem
 594:Ground Gem
