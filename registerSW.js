@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/pokemon-unbound2/sw.js', { scope: '/pokemon-unbound2/' })})}
